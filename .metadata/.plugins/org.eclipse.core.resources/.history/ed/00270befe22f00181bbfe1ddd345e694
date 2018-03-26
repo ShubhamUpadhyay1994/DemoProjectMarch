@@ -1,0 +1,10 @@
+package com.automation.DemoProject;
+
+public class DemoTestClass {
+
+	public static void testUrl(String url){
+		DemoPageClass.setProperty(url);
+	}
+	
+	
+}
